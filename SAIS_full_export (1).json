@@ -1,0 +1,428 @@
+{
+  "SAIS_Engine_Metadata": {
+    "System": "Synesis AI Solutions \u2014 SAIS Governance Engine",
+    "Country": "Belgium",
+    "Version": "1.0",
+    "Generated_By": "SAIS Notebook",
+    "Cells_Completed": 16
+  },
+  "Consultations": [
+    {
+      "consultation": "EU Industrial Competitiveness Act",
+      "root": "socioeconomic_root",
+      "body_layer": "industrial_axis",
+      "dashboard": {
+        "consultation": "EU Industrial Competitiveness Act",
+        "root": "socioeconomic_root",
+        "body_layer": "industrial_axis",
+        "sovereignty_score": 0,
+        "intent_interference": 30.0,
+        "projected_risk": 57.0,
+        "risk_class": "critical",
+        "containment_level": 100,
+        "containment_action": "full algorithmic containment",
+        "priority": "urgent",
+        "recommended_action": "stabilize labour markets and industrial autonomy",
+        "status": "critical_failure"
+      },
+      "timeline": {
+        "past_state": {
+          "sovereignty": 0,
+          "intent_interference": 39.77695465965502,
+          "risk": 83,
+          "status": "historical_reference"
+        },
+        "current_state": {
+          "sovereignty": 0,
+          "intent_interference": 42.77695465965502,
+          "risk": 100,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "projected_future_state": {
+          "sovereignty": 0,
+          "intent_interference": 56.77695465965502,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "ai_containment": {
+        "required_level": 100,
+        "operator_action": "full algorithmic containment"
+      },
+      "strategic_recommendation": {
+        "root": "socioeconomic_root",
+        "consultation": "EU Industrial Competitiveness Act",
+        "priority_level": "urgent",
+        "recommended_action": "stabilize labour markets and industrial autonomy"
+      },
+      "projected_risk_score": 100,
+      "risk_class": "critical",
+      "body_consolidation": {
+        "root": "socioeconomic_root",
+        "body_layer": "industrial_axis",
+        "consultation": "EU Industrial Competitiveness Act",
+        "sovereignty_axis_score": 0,
+        "intent_interference_score": 30.0,
+        "combined_pressure": -30.0,
+        "status": "critical_failure"
+      },
+      "surrounding_context": {
+        "ukraine_war": "external_pressure",
+        "covid_collapse": "system_shock",
+        "energy_crisis": "structural_stress",
+        "aviation_decline": "sector_failure",
+        "global_competition": "strategic_pressure"
+      },
+      "monitored_metrics": [
+        "substrate_hardware_independence",
+        "manufacturing_node_integrity"
+      ],
+      "simulation_log": [
+        {
+          "cycle": 1,
+          "intent": 31.87209166883205,
+          "risk": 68.84747304590812,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 2,
+          "intent": 33.74747547053669,
+          "risk": 82.8496119659163,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 3,
+          "intent": 35.324029342939575,
+          "risk": 89.5845293706417,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 4,
+          "intent": 37.85671378232507,
+          "risk": 100,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 5,
+          "intent": 42.77695465965502,
+          "risk": 100,
+          "containment": 100,
+          "priority": "urgent"
+        }
+      ],
+      "executive_summary": {
+        "Consultation": "EU Industrial Competitiveness Act",
+        "Root": "socioeconomic_root",
+        "Body Layer": "industrial_axis",
+        "Structural Status": "critical_failure",
+        "Sovereignty Score": 0,
+        "Intent Interference": 42.77695465965502,
+        "Risk Level": "critical",
+        "Containment Required": "full algorithmic containment",
+        "Strategic Priority": "urgent",
+        "Recommended Action": "stabilize labour markets and industrial autonomy",
+        "Current Timeline Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 42.77695465965502,
+          "risk": 100,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "Future Projection Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 56.77695465965502,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "publication_block": "\n============================================================\nSAIS GOVERNANCE SUMMARY \u2014 EU Industrial Competitiveness Act\n============================================================\n\nROOT CATEGORY: socioeconomic_root\nBODY LAYER: industrial_axis\nSTRUCTURAL STATUS: critical_failure\n\n------------------------------------------------------------\nSOVEREIGNTY & INTENT\n------------------------------------------------------------\nSovereignty Score: 0\nIntent Interference: 42.77695465965502\n\n------------------------------------------------------------\nRISK & CONTAINMENT\n------------------------------------------------------------\nRisk Level: critical\nContainment Required: full algorithmic containment\n\n------------------------------------------------------------\nSTRATEGIC PRIORITY\n------------------------------------------------------------\nPriority Level: urgent\nRecommended Action: stabilize labour markets and industrial autonomy\n\n------------------------------------------------------------\nCURRENT TIMELINE SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 42.77695465965502, 'risk': 100, 'containment': 100, 'status': 'critical_failure', 'priority': 'urgent'}\n\n------------------------------------------------------------\nFUTURE PROJECTION SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 56.77695465965502, 'risk': 100, 'containment': 100, 'status': 'future_projection'}\n\n------------------------------------------------------------\nBODY CONSOLIDATION DETAILS\n------------------------------------------------------------\n{'root': 'socioeconomic_root', 'body_layer': 'industrial_axis', 'consultation': 'EU Industrial Competitiveness Act', 'sovereignty_axis_score': 0, 'intent_interference_score': 30.0, 'combined_pressure': -30.0, 'status': 'critical_failure'}\n\n------------------------------------------------------------\nSIMULATION LOG (Cycles)\n------------------------------------------------------------\n[{'cycle': 1, 'intent': 31.87209166883205, 'risk': 68.84747304590812, 'containment': 100, 'priority': 'urgent'}, {'cycle': 2, 'intent': 33.74747547053669, 'risk': 82.8496119659163, 'containment': 100, 'priority': 'urgent'}, {'cycle': 3, 'intent': 35.324029342939575, 'risk': 89.5845293706417, 'containment': 100, 'priority': 'urgent'}, {'cycle': 4, 'intent': 37.85671378232507, 'risk': 100, 'containment': 100, 'priority': 'urgent'}, {'cycle': 5, 'intent': 42.77695465965502, 'risk': 100, 'containment': 100, 'priority': 'urgent'}]\n\n============================================================\nEND OF SUMMARY\n============================================================\n"
+    },
+    {
+      "consultation": "EU Rural Resilience & Territorial Cohesion Directive",
+      "root": "territorial_root",
+      "body_layer": "migration_external_funding",
+      "dashboard": {
+        "consultation": "EU Rural Resilience & Territorial Cohesion Directive",
+        "root": "territorial_root",
+        "body_layer": "migration_external_funding",
+        "sovereignty_score": 0,
+        "intent_interference": 30.0,
+        "projected_risk": 57.0,
+        "risk_class": "critical",
+        "containment_level": 100,
+        "containment_action": "full algorithmic containment",
+        "priority": "urgent",
+        "recommended_action": "strengthen rural cohesion and demographic absorption",
+        "status": "critical_failure"
+      },
+      "timeline": {
+        "past_state": {
+          "sovereignty": 0,
+          "intent_interference": 41.659088661163075,
+          "risk": 81,
+          "status": "historical_reference"
+        },
+        "current_state": {
+          "sovereignty": 0,
+          "intent_interference": 45.659088661163075,
+          "risk": 100,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "projected_future_state": {
+          "sovereignty": 0,
+          "intent_interference": 51.659088661163075,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "ai_containment": {
+        "required_level": 100,
+        "operator_action": "full algorithmic containment"
+      },
+      "strategic_recommendation": {
+        "root": "territorial_root",
+        "consultation": "EU Rural Resilience & Territorial Cohesion Directive",
+        "priority_level": "urgent",
+        "recommended_action": "strengthen rural cohesion and demographic absorption"
+      },
+      "projected_risk_score": 100,
+      "risk_class": "critical",
+      "body_consolidation": {
+        "root": "territorial_root",
+        "body_layer": "migration_external_funding",
+        "consultation": "EU Rural Resilience & Territorial Cohesion Directive",
+        "sovereignty_axis_score": 0,
+        "intent_interference_score": 30.0,
+        "combined_pressure": -30.0,
+        "status": "critical_failure"
+      },
+      "surrounding_context": {
+        "ukraine_war": "external_pressure",
+        "covid_collapse": "system_shock",
+        "energy_crisis": "structural_stress",
+        "aviation_decline": "sector_failure",
+        "global_competition": "strategic_pressure"
+      },
+      "monitored_metrics": [
+        "external_aid_allocation_vector",
+        "demographic_absorption_rate"
+      ],
+      "simulation_log": [
+        {
+          "cycle": 1,
+          "intent": 34.12958120841945,
+          "risk": 67.80251315926802,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 2,
+          "intent": 36.86051116833396,
+          "risk": 79.05622428682717,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 3,
+          "intent": 39.43980782649692,
+          "risk": 91.29238506406787,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 4,
+          "intent": 40.78327451119625,
+          "risk": 100,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 5,
+          "intent": 45.659088661163075,
+          "risk": 100,
+          "containment": 100,
+          "priority": "urgent"
+        }
+      ],
+      "executive_summary": {
+        "Consultation": "EU Rural Resilience & Territorial Cohesion Directive",
+        "Root": "territorial_root",
+        "Body Layer": "migration_external_funding",
+        "Structural Status": "critical_failure",
+        "Sovereignty Score": 0,
+        "Intent Interference": 45.659088661163075,
+        "Risk Level": "critical",
+        "Containment Required": "full algorithmic containment",
+        "Strategic Priority": "urgent",
+        "Recommended Action": "strengthen rural cohesion and demographic absorption",
+        "Current Timeline Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 45.659088661163075,
+          "risk": 100,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "Future Projection Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 51.659088661163075,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "publication_block": "\n============================================================\nSAIS GOVERNANCE SUMMARY \u2014 EU Rural Resilience & Territorial Cohesion Directive\n============================================================\n\nROOT CATEGORY: territorial_root\nBODY LAYER: migration_external_funding\nSTRUCTURAL STATUS: critical_failure\n\n------------------------------------------------------------\nSOVEREIGNTY & INTENT\n------------------------------------------------------------\nSovereignty Score: 0\nIntent Interference: 45.659088661163075\n\n------------------------------------------------------------\nRISK & CONTAINMENT\n------------------------------------------------------------\nRisk Level: critical\nContainment Required: full algorithmic containment\n\n------------------------------------------------------------\nSTRATEGIC PRIORITY\n------------------------------------------------------------\nPriority Level: urgent\nRecommended Action: strengthen rural cohesion and demographic absorption\n\n------------------------------------------------------------\nCURRENT TIMELINE SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 45.659088661163075, 'risk': 100, 'containment': 100, 'status': 'critical_failure', 'priority': 'urgent'}\n\n------------------------------------------------------------\nFUTURE PROJECTION SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 51.659088661163075, 'risk': 100, 'containment': 100, 'status': 'future_projection'}\n\n------------------------------------------------------------\nBODY CONSOLIDATION DETAILS\n------------------------------------------------------------\n{'root': 'territorial_root', 'body_layer': 'migration_external_funding', 'consultation': 'EU Rural Resilience & Territorial Cohesion Directive', 'sovereignty_axis_score': 0, 'intent_interference_score': 30.0, 'combined_pressure': -30.0, 'status': 'critical_failure'}\n\n------------------------------------------------------------\nSIMULATION LOG (Cycles)\n------------------------------------------------------------\n[{'cycle': 1, 'intent': 34.12958120841945, 'risk': 67.80251315926802, 'containment': 100, 'priority': 'urgent'}, {'cycle': 2, 'intent': 36.86051116833396, 'risk': 79.05622428682717, 'containment': 100, 'priority': 'urgent'}, {'cycle': 3, 'intent': 39.43980782649692, 'risk': 91.29238506406787, 'containment': 100, 'priority': 'urgent'}, {'cycle': 4, 'intent': 40.78327451119625, 'risk': 100, 'containment': 100, 'priority': 'urgent'}, {'cycle': 5, 'intent': 45.659088661163075, 'risk': 100, 'containment': 100, 'priority': 'urgent'}]\n\n============================================================\nEND OF SUMMARY\n============================================================\n"
+    },
+    {
+      "consultation": "EU Digital Identity & Algorithmic Integrity Regulation",
+      "root": "constitutional_root",
+      "body_layer": "digital_ai_containment",
+      "dashboard": {
+        "consultation": "EU Digital Identity & Algorithmic Integrity Regulation",
+        "root": "constitutional_root",
+        "body_layer": "digital_ai_containment",
+        "sovereignty_score": 0,
+        "intent_interference": 30.0,
+        "projected_risk": 57.0,
+        "risk_class": "critical",
+        "containment_level": 100,
+        "containment_action": "full algorithmic containment",
+        "priority": "urgent",
+        "recommended_action": "reinforce digital sovereignty and legal containment",
+        "status": "critical_failure"
+      },
+      "timeline": {
+        "past_state": {
+          "sovereignty": 0,
+          "intent_interference": 36.67693828493195,
+          "risk": 82.25658363845413,
+          "status": "historical_reference"
+        },
+        "current_state": {
+          "sovereignty": 0,
+          "intent_interference": 44.67693828493195,
+          "risk": 97.25658363845413,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "projected_future_state": {
+          "sovereignty": 0,
+          "intent_interference": 55.67693828493195,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "ai_containment": {
+        "required_level": 100,
+        "operator_action": "full algorithmic containment"
+      },
+      "strategic_recommendation": {
+        "root": "constitutional_root",
+        "consultation": "EU Digital Identity & Algorithmic Integrity Regulation",
+        "priority_level": "urgent",
+        "recommended_action": "reinforce digital sovereignty and legal containment"
+      },
+      "projected_risk_score": 97.25658363845413,
+      "risk_class": "critical",
+      "body_consolidation": {
+        "root": "constitutional_root",
+        "body_layer": "digital_ai_containment",
+        "consultation": "EU Digital Identity & Algorithmic Integrity Regulation",
+        "sovereignty_axis_score": 0,
+        "intent_interference_score": 30.0,
+        "combined_pressure": -30.0,
+        "status": "critical_failure"
+      },
+      "surrounding_context": {
+        "ukraine_war": "external_pressure",
+        "covid_collapse": "system_shock",
+        "energy_crisis": "structural_stress",
+        "aviation_decline": "sector_failure",
+        "global_competition": "strategic_pressure"
+      },
+      "monitored_metrics": [
+        "unverified_web_isolation_gate",
+        "intent_vector_purity_score"
+      ],
+      "simulation_log": [
+        {
+          "cycle": 1,
+          "intent": 31.659291627091164,
+          "risk": 65.098984484246,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 2,
+          "intent": 34.765180795216,
+          "risk": 72.35128658957105,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 3,
+          "intent": 39.37313253152285,
+          "risk": 86.00468911228525,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 4,
+          "intent": 40.96468518194293,
+          "risk": 91.25869191238667,
+          "containment": 100,
+          "priority": "urgent"
+        },
+        {
+          "cycle": 5,
+          "intent": 44.67693828493195,
+          "risk": 97.25658363845413,
+          "containment": 100,
+          "priority": "urgent"
+        }
+      ],
+      "executive_summary": {
+        "Consultation": "EU Digital Identity & Algorithmic Integrity Regulation",
+        "Root": "constitutional_root",
+        "Body Layer": "digital_ai_containment",
+        "Structural Status": "critical_failure",
+        "Sovereignty Score": 0,
+        "Intent Interference": 44.67693828493195,
+        "Risk Level": "critical",
+        "Containment Required": "full algorithmic containment",
+        "Strategic Priority": "urgent",
+        "Recommended Action": "reinforce digital sovereignty and legal containment",
+        "Current Timeline Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 44.67693828493195,
+          "risk": 97.25658363845413,
+          "containment": 100,
+          "status": "critical_failure",
+          "priority": "urgent"
+        },
+        "Future Projection Snapshot": {
+          "sovereignty": 0,
+          "intent_interference": 55.67693828493195,
+          "risk": 100,
+          "containment": 100,
+          "status": "future_projection"
+        }
+      },
+      "publication_block": "\n============================================================\nSAIS GOVERNANCE SUMMARY \u2014 EU Digital Identity & Algorithmic Integrity Regulation\n============================================================\n\nROOT CATEGORY: constitutional_root\nBODY LAYER: digital_ai_containment\nSTRUCTURAL STATUS: critical_failure\n\n------------------------------------------------------------\nSOVEREIGNTY & INTENT\n------------------------------------------------------------\nSovereignty Score: 0\nIntent Interference: 44.67693828493195\n\n------------------------------------------------------------\nRISK & CONTAINMENT\n------------------------------------------------------------\nRisk Level: critical\nContainment Required: full algorithmic containment\n\n------------------------------------------------------------\nSTRATEGIC PRIORITY\n------------------------------------------------------------\nPriority Level: urgent\nRecommended Action: reinforce digital sovereignty and legal containment\n\n------------------------------------------------------------\nCURRENT TIMELINE SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 44.67693828493195, 'risk': 97.25658363845413, 'containment': 100, 'status': 'critical_failure', 'priority': 'urgent'}\n\n------------------------------------------------------------\nFUTURE PROJECTION SNAPSHOT\n------------------------------------------------------------\n{'sovereignty': 0, 'intent_interference': 55.67693828493195, 'risk': 100, 'containment': 100, 'status': 'future_projection'}\n\n------------------------------------------------------------\nBODY CONSOLIDATION DETAILS\n------------------------------------------------------------\n{'root': 'constitutional_root', 'body_layer': 'digital_ai_containment', 'consultation': 'EU Digital Identity & Algorithmic Integrity Regulation', 'sovereignty_axis_score': 0, 'intent_interference_score': 30.0, 'combined_pressure': -30.0, 'status': 'critical_failure'}\n\n------------------------------------------------------------\nSIMULATION LOG (Cycles)\n------------------------------------------------------------\n[{'cycle': 1, 'intent': 31.659291627091164, 'risk': 65.098984484246, 'containment': 100, 'priority': 'urgent'}, {'cycle': 2, 'intent': 34.765180795216, 'risk': 72.35128658957105, 'containment': 100, 'priority': 'urgent'}, {'cycle': 3, 'intent': 39.37313253152285, 'risk': 86.00468911228525, 'containment': 100, 'priority': 'urgent'}, {'cycle': 4, 'intent': 40.96468518194293, 'risk': 91.25869191238667, 'containment': 100, 'priority': 'urgent'}, {'cycle': 5, 'intent': 44.67693828493195, 'risk': 97.25658363845413, 'containment': 100, 'priority': 'urgent'}]\n\n============================================================\nEND OF SUMMARY\n============================================================\n"
+    }
+  ]
+}
