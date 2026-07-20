@@ -1,0 +1,17 @@
+{
+    "framework": "SAIS Belgium",
+    "version": "1.0.0",
+    "core_invariants": {
+        "gamma_threshold": 0.85,
+        "isolation_protocol": "Theorem 1",
+        "routing_functional": "Theorem 2"
+    },
+    "node_topology_labels": [
+        "N_Google_Core",
+        "N_MS_Identity",
+        "N_Edge_Router_A",
+        "BLOCKED_3_Unverified_Web",
+        "N_Secure_Vault",
+        "BLOCKED_5_Manipulated_Node"
+    ]
+}
