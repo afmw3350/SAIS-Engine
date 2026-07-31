@@ -1,0 +1,86 @@
+# SAIS Runtime Governance Engine v1.0
+
+## Reference Implementation
+
+**Author:** Abdelfattah Wanis  
+**Organization:** Synesis AI Solutions (SAIS)  
+**Country:** Belgium  
+**Year:** 2026
+
+## Official Citation
+
+Wanis, A. (2026). *SAIS Runtime Governance Engine v1.0: Reference Implementation.* Synesis AI Solutions.
+
+## Overview
+
+The SAIS Runtime Governance Engine is a deterministic execution-authorization layer positioned between mathematical generation and operational execution.
+
+The architecture distinguishes between:
+
+1. **MLG - Mathematical Logic Generator**
+
+   The foundational system that generates proposals, plans, commands, or execution requests.
+
+2. **SAIS Runtime Governance**
+
+   The deterministic layer that evaluates identity, jurisdiction, permissions, impact, reversibility, telemetry, and human oversight before execution.
+
+3. **AI Systems**
+
+   Bots, software agents, robotic systems, APIs, tools, workflows, and external systems that may execute an authorized request.
+
+## Central Principle
+
+> The Mathematical Logic Generator may propose.  
+> The AI system may execute only after SAIS authorization.
+
+## Governance Scope
+
+SAIS governs:
+
+- execution requests
+- actions
+- tool calls
+- API interactions
+- robotic movement
+- system impact
+- identity
+- jurisdiction
+- permissions
+- telemetry
+- audit evidence
+
+SAIS does not attempt to inspect or modify:
+
+- model weights
+- embeddings
+- training data
+- hidden internal reasoning
+
+## Runtime Decisions
+
+The engine produces one of four deterministic decisions:
+
+- `ALLOW`
+- `REVIEW`
+- `BLOCK`
+- `ESCALATE`
+
+An operational executor is called only when the decision is `ALLOW`.
+
+## Demonstration Results
+
+The reference implementation contains three scenarios:
+
+| Scenario | Decision | Execution |
+|---|---|---|
+| Verified low-impact telemetry request | ALLOW | Executed |
+| High-impact robotic movement without approval | BLOCK | Not executed |
+| Unauthenticated unrestricted API request | BLOCK | Not executed |
+
+For blocked requests, the execution output is `null`, demonstrating pre-execution interception.
+
+## Main File
+
+```text
+sais_runtime_governance_engine_v1.py
